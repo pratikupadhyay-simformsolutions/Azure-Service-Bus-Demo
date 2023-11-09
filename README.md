@@ -1,3 +1,3 @@
-# Demo_Azure
+# Azure Service Bus Demo
 
-Azure Service Bus Demo
+replace your service bus connectionstring in appsetting.json file
